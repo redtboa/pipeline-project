@@ -1,4 +1,4 @@
-# CALIFORNIA TARGET GROUPS for LOAD BALANCER
+## CALIFORNIA TARGET GROUPS for LOAD BALANCER
 /*
 resource "aws_lb_target_group" "ca_lb_tg80" {
   provider = aws.california

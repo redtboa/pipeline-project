@@ -1,6 +1,6 @@
 #Target Group for Port 80 app
 
-#California Security Group
+#California Security Groups
 resource "aws_security_group" "ec2-cali-sg80" {
   #provider = aws.california
   vpc_id = aws_vpc.CA_VPC.id 

@@ -5,7 +5,7 @@ resource "aws_vpc" "CA_VPC" {              # VPC ID: aws_vpc.CA_VPC.id
     Name = "CA_VPC"
     Service = "Jenkins"
     access = "Public"
-    Owner = "Blackneto"
+    Owner = "Blacknetos"
     Planet = "Genosha"
     location = "Taa"
     fbi = "fit feminine and friendly"

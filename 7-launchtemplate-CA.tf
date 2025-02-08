@@ -59,7 +59,7 @@ resource "aws_launch_template" "ec2-cali-80" {
     tags = {
       Name    = "ec2-cali-80"
       Service = "jenkins"
-      Owner   = "Blackneto"
+      Owner   = "Blacknetos"
       Planet  = "Taa"
     }
   }
